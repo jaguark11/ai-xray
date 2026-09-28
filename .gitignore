@@ -1,0 +1,15 @@
+# Entorno local
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+# Archivos distribuidos en la Release
+/data/images/
+/models/*.keras
+/mlartifacts/
+/mlflow.db
+/mlflow.db-*
+*.zip

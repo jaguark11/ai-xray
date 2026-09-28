@@ -1,0 +1,2 @@
+# Optional symbolic Spark step; Java 17 required.
+pyspark==3.5.6
